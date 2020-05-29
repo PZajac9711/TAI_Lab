@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node app/index.js",
-    "run app": "./node_modules/.bin/nodemon app"
+    "start": "node ./app/index.js"
   },
   "author": "Patryk Zajac",
   "license": "ISC",
